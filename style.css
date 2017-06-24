@@ -1,0 +1,37 @@
+html {
+  font-size: 20px;
+  font-family: 'Bubbler One', sans-serif;
+}
+
+
+.BBB{
+  float: right;
+}
+
+
+.first input{
+    font-size: 15px;
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 50px;
+    box-sizing: border-box;
+    padding: 12px 20px 12px 40px;
+}
+
+
+
+#fs #fsl {
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 0;
+    background-color: beige;
+}
+#fs #fsr {
+    float: right;
+    margin-top: 100px;
+    margin-bottom: 0;
+    background-color: beige;
+}
+
+
+
